@@ -1,0 +1,13 @@
+C:\Mp3Player\bin\Debug\netcoreapp3.1\Mp3Player.exe
+C:\Mp3Player\bin\Debug\netcoreapp3.1\Mp3Player.deps.json
+C:\Mp3Player\bin\Debug\netcoreapp3.1\Mp3Player.runtimeconfig.json
+C:\Mp3Player\bin\Debug\netcoreapp3.1\Mp3Player.runtimeconfig.dev.json
+C:\Mp3Player\bin\Debug\netcoreapp3.1\Mp3Player.dll
+C:\Mp3Player\bin\Debug\netcoreapp3.1\Mp3Player.pdb
+C:\Mp3Player\obj\Debug\netcoreapp3.1\Mp3Player.AssemblyInfoInputs.cache
+C:\Mp3Player\obj\Debug\netcoreapp3.1\Mp3Player.AssemblyInfo.cs
+C:\Mp3Player\obj\Debug\netcoreapp3.1\Mp3Player.csproj.CoreCompileInputs.cache
+C:\Mp3Player\obj\Debug\netcoreapp3.1\Mp3Player.dll
+C:\Mp3Player\obj\Debug\netcoreapp3.1\Mp3Player.pdb
+C:\Mp3Player\obj\Debug\netcoreapp3.1\Mp3Player.genruntimeconfig.cache
+C:\Mp3Player\obj\Debug\netcoreapp3.1\Mp3Player.csprojAssemblyReference.cache
